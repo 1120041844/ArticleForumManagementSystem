@@ -39,16 +39,16 @@
 
 ## 缩略图
 
-![](https://img2022.cnblogs.com/blog/588112/202207/588112-20220709070629455-468117113.png)
-![](https://img2022.cnblogs.com/blog/588112/202207/588112-20220709070637568-1984909096.png)
-![](https://img2022.cnblogs.com/blog/588112/202207/588112-20220709070642158-160684071.png)
-![](https://img2022.cnblogs.com/blog/588112/202207/588112-20220709070646198-79782528.png)
-![](https://img2022.cnblogs.com/blog/588112/202207/588112-20220709070654490-449741832.png)
-![](https://img2022.cnblogs.com/blog/588112/202207/588112-20220709070706941-844313906.png)
-![](https://img2022.cnblogs.com/blog/588112/202207/588112-20220709070716183-759044650.png)
-![](https://img2022.cnblogs.com/blog/588112/202207/588112-20220709070721081-1996966964.png)
-![](https://img2022.cnblogs.com/blog/588112/202207/588112-20220709070725666-1003576263.png)
-![](https://img2022.cnblogs.com/blog/588112/202207/588112-20220709070729767-1439389225.png)
+![](images/1.png)
+![](images/2.png)
+![](images/3.png)
+![](images/4.png)
+![](images/5.png)
+![](images/6.png)
+![](images/7.png)
+![](images/8.png)
+![](images/9.png)
+![](images/10.png)
 
 
 ## License
